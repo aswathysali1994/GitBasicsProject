@@ -2,8 +2,8 @@
 public class test1 {
 
 	public static void main(String[] args) {
-		int index=0;
-		for ( int i=0;i<10;i++)
+		int arr[]= {1,2,3};
+		for (int i :arr )
 		{
 			System.out.println("The number is :"+i);
 		}
