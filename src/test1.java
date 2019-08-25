@@ -11,6 +11,7 @@ public class test1 {
 			System.out.println("sum is :"+sum);
 			
 		}
+		System.out.println("donee");
 
 	}
 
