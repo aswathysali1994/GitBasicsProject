@@ -8,6 +8,8 @@ public class test1 {
 		{
 			System.out.println("The number is :"+i);
 			sum+=i;
+			System.out.println("sum is :"+sum);
+			
 		}
 
 	}
